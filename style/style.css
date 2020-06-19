@@ -17,7 +17,7 @@ body{
 
 .head{
     background: var(--neutral1);
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(../images/bg-hero-mobile.svg);
     background-repeat: no-repeat;
 }
 
@@ -300,7 +300,7 @@ h3, h1{
       }
 
       .head{
-          background-image: url(images/bg-hero-desktop.svg);
+          background-image: url(../images/bg-hero-desktop.svg);
       }
   }
 
